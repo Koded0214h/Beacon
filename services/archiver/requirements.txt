@@ -1,0 +1,4 @@
+confluent-kafka>=2.5
+pydantic>=2.8
+sqlalchemy>=2.0
+prometheus-client>=0.20

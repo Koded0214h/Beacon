@@ -1,0 +1,5 @@
+fastapi>=0.115
+uvicorn[standard]>=0.30
+confluent-kafka>=2.5
+pydantic>=2.8
+prometheus-client>=0.20
